@@ -15,15 +15,15 @@ NotesApp is an Android application that allows users to register, log in, and cr
 ## Screenshots
 - **Main Screen**: 
 
-  ![Main Screen](./screenshots/main_screen.png)
+  ![Main Screen](./screenshots/main_screen.jpg)
 
 - **Journal Display**: 
 
-  ![Journal Display](./screenshots/journal_display.png)
+  ![Journal Display](./screenshots/journal_display.jpg)
 
   -**Add Journal Screen**:
 
-  ![Add Journal Screen](./screenshots/add_journal_screen.png)
+  ![Add Journal Screen](./screenshots/add_journal_screen.jpg)
 
 ## Technologies Used
 - **Java**: Core programming language
