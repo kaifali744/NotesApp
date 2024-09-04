@@ -55,6 +55,6 @@ Feel free to submit issues or pull requests. For major changes, please discuss t
 
 
 ## Contact
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/yourusername)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/mohammad-kaif-ali-3a19671a0)
+- **Twitter**: [My Twitter/X Profile](https://x.com/kaifali744)
 
